@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MefTraining": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
