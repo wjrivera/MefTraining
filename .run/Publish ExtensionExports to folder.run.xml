@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish ExtensionExports to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish self_contained="true" target_folder="C:\Users\willito\source\repos\MefTraining\ExtensionExports\publish\" target_framework="netcoreapp3.1" uuid_high="-6119198666793728812" uuid_low="-5806468661178137466" />
+    <method v="2" />
+  </configuration>
+</component>
